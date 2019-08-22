@@ -21,6 +21,6 @@ cd ../toolchain
 
 5. 构建文件系统
 
-cd ../buildroot
+cd ../buildroot_imx6ul
 
 ./build_rootfs.sh
